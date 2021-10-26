@@ -6091,11 +6091,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TARpe20\\StoredProcedureTARpe20\\StoredProcedureTARpe20\\StoredProcedureTARpe20.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\Desktop\\SearchPageSQL\\StoredProcedureTARpe20\\StoredProcedureTARpe20.csproj",
       "projectName": "StoredProcedureTARpe20",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\TARpe20\\StoredProcedureTARpe20\\StoredProcedureTARpe20\\StoredProcedureTARpe20.csproj",
+      "projectPath": "C:\\Users\\opilane\\Desktop\\SearchPageSQL\\StoredProcedureTARpe20\\StoredProcedureTARpe20.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\TARpe20\\StoredProcedureTARpe20\\StoredProcedureTARpe20\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\Desktop\\SearchPageSQL\\StoredProcedureTARpe20\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
